@@ -1,5 +1,5 @@
 {
-  "name": "chat-server",
+  "name": "chrome-chat-server",
   "version": "1.0.0",
   "main": "server.js",
   "dependencies": {
